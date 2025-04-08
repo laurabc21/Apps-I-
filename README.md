@@ -1,6 +1,6 @@
 # Hate Speech Text Classification with SpaCy and Scattertext Visualization
-Project Overview
-This project aims to classify text into hate speech and non-hate speech categories using Natural Language Processing (NLP) techniques. The project leverages the SpaCy framework for text preprocessing and classification model training. Additionally, Scattertext is used for visualizing the results and analyzing the performance of the classification model.
+
+This project aims to classify text into hate speech and non-hate speech dataset (Tonneau, 2024) categories using the SpaCy framework for text preprocessing and classification model training. Additionally, Scattertext is used for visualizing the results and analyzing the performance of the classification model.
 
 The following steps has been taken:
 
