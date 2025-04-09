@@ -9,3 +9,5 @@ The following steps has been taken:
 - Text Classification: A classification model is trained to differentiate between hate speech and non-hate speech.
 
 . Visualization: Scattertext has been used to create interactive visualizations of the most important words used in hate speech versus non-hate speech.
+
+Dataset link: https://huggingface.co/datasets/manueltonneau/spanish-hate-speech-superset
